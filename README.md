@@ -33,7 +33,9 @@ The dataset files used are:
   
   *4.Dense Layers*:
     -Dense (128 units, ReLU activation)
+    
     -Dense (47 units, softmax activation for multi-class classification)
+  
   *Total parameters: 246,319*
 
 ## Training Process
