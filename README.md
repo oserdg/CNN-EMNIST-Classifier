@@ -39,12 +39,19 @@ The dataset files used are:
   *Total parameters: 246,319*
 
 ## Training Process
+
   Optimizer: *Adam*
+  
   Loss Function: *Categorical Crossentropy*
+  
   Metrics: Accuracy
+  
   Batch Size: 128
+  
   Epochs: 10
+  
   Training Data: 112,800 images
+  
   Validation Data: 18,800 images
 
 The model achieves:
