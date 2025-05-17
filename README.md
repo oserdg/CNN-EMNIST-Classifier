@@ -67,10 +67,15 @@ Example predictions show:
 
 ## Dependencies
   -Python 3.x
+  
   -TensorFlow 2.x
+  
   -Keras
+  
   -NumPy
+  
   -Matplotlib
+  
   -pandas
 
 ### References
